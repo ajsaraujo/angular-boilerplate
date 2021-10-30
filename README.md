@@ -2,7 +2,7 @@
 
 This is a simple boilerplate for Angular applications. It sets up ESLint, Prettier and a pre-commit hook that runs both. ⚙️
 
-This configuration can be replicated with the following steps. It only takes some minutes. 👇
+To generate a new application with that template, you just have to hit "Use this template button" button at the top of this page. If you prefer, this configuration can also be replicated with the following steps. It only takes some minutes. 👇
 
 1. Generate a new Angular application with `ng new {{app-name}}`.
 2. Install ESLint with `npm i eslint -D`.
